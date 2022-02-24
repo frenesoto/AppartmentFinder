@@ -5,7 +5,7 @@ An apartemnt finder writen in python!
 
 Be sure to have [Python3](https://www.python.org/downloads/), [pip](https://pip.pypa.io/en/stable/installation/), and [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html) installed. 
 
-To install the latest version of the program, enter the following commands:
+To install the latest version of the program, follow the next steps:
 ```
 clone repository
 cd AppartmentFinder
